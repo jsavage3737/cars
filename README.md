@@ -6,4 +6,4 @@ The *cars.sh* script allows a user to:
 2. Add a new car to *My_old_cars.txt*
 3. Quit the program
 
-![Sample Car](https://images.pexels.com/photos/2071/broken-car-vehicle-vintage.jpg)
+![Sample Car](https://images.pexels.com/photos/2071/broken-car-vehicle-vintage.jpg?auto=compress&cs=tinysrgb&h=350)
