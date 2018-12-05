@@ -26,7 +26,7 @@ while $RUNNING; do
 			;;
 
 		"2")
-			cat My_old_cars.txt
+			sort -g My_old_cars.txt
 			;;
 		"Q")
 			RUNNING=false
